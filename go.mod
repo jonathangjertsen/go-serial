@@ -1,4 +1,4 @@
-module github.com/jacobsa/go-serial
+module github.com/jonathangjertsen/go-serial
 
 go 1.17
 
